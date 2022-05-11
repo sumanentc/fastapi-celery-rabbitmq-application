@@ -92,6 +92,10 @@ We can visit http://127.0.0.1:9000/docs in our browser to see the interactive AP
 
 The server will start at <http://localhost:9000/docs>.
 
+Please check out the article for further details.
+[Async Architecture with FastAPI, Celery, and RabbitMQ ](https://dassum.medium.com/async-architecture-with-fastapi-celery-and-rabbitmq-c7d029030377)
+
+
 ### References
 * https://docs.celeryq.dev/en/stable/index.html
 * https://flower.readthedocs.io/en/latest/
